@@ -20,5 +20,4 @@ The experiment was set up in the same way as the schematic diagram below:
 
 This directory is maintained by TorsuD, arabsannan, Djayappiah, Elsieann, Hilton-Blankson.
 You can look up the main code of this project on the master branch on this repository.
-You can learn more using this link https://youtu.be/UwTFfa_f4-0
-You can also learn more using this link 
+You can learn more using this link https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf .
